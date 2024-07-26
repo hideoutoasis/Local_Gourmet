@@ -7,7 +7,7 @@ from .models import Recipe
 from .serializers import RecipeSerializer
 from django.http import HttpResponse
 
-# testing againx2
+# testing againx3
 
 class ExampleView(APIView):
     def get(self, request):
